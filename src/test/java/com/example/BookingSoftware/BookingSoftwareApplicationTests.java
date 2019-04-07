@@ -13,7 +13,7 @@ public class BookingSoftwareApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertTrue(true,"true");
+		assertTrue(true,"true added555");
 	}
 
 }
